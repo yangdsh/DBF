@@ -1,4 +1,4 @@
-# 4colorclassifier
+# Difference Bloom Filter
 ## What is this?
 This is the source code of our research paper accepted by ICC 2017. In this paper, we propose a new data structure named ***Difference Bloom filter***, which is a probabilistic data structure for multi-set query.
 Experiments and mathematical analysis show that it has higher accuracy and faster query speed than the state-of-the-art. 
